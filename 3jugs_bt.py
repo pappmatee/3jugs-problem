@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# Papp Máté
-
-# TODO
-# operators = [ [0,1], [0,2], [1,0], [1,2], [2,0], [2,1] ]
-# ezt elmentjuk egy allapot melle
-# pl: node = [ [0,0,5], [0,2] ... ] 
-
 class ThreeJugs():
     def __init__(self):
         self.state = [0, 0, 5]
